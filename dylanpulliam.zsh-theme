@@ -38,8 +38,7 @@ alias spellup='git status; git branch'
 alias runto='cd '
 alias txtwarz='say "Wage more text wars!";echo "Wage more text wars!"'
 alias recall='cd ~'
-
-#alias score=''
+alias score='glog'
 
 # Areas
 alias projects=' ~/Projects'
@@ -48,15 +47,18 @@ alias rfe=' ~/Projects/customink/rails_frontend'
 alias qs=' ~/Projects/customink/quote_service'
 alias qc=' ~/Projects/customink/quote_client'
 alias oracle=' ~/Projects/customink/oracle-dev-server'
+alias autotomy=' ~/Projects/customink/autotomy'
+alias site_content=' ~/Projects/customink/site_content'
+alias s_c=' ~/Projects/customink/site_content'
 
 #Spells
-alias cast=''
+alias cast='source '
 
 
 #Skills
 
-# Shortcuts 
+# Shortcuts
 alias rt='runto '
 alias l='look '
 alias st='stand '
-#alias sc='score '
+alias sc='score '
